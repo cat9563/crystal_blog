@@ -5,45 +5,9 @@ permalink: /talks/
 image: 11.jpg
 ---
 
+## Talks I have given
 
-# SELECTED OPEN SOURCE PROJECTS
-# EXPERIENCE
----
+### Brain Injuries, Science Fiction, and Library Discovery (2013)
 
+<iframe src="https://youtube.com/embed/Y7r11tU_oRQ" frameborder="0" allowfullscreen></iframe>
 
-
-#### Data Curation Experts, Minneapolis, MN
-##### Partner and Senior Developer
-
-<small>JANUARY2017 - Present</small>
-
----
-
-#### Stanford University Library, Stanford, CA
-##### Manager, Application Development, Digital Library Systems and Services
-
-<small>APRIL 2011 - JANUARY 2017</small>
-
----
-
-
-#### Stanford University Library, Stanford, CA
-##### Senior Java Developer
-
-<small>JANUARY 2010 - APRIL 2011</small>
-
----
-
-#### University of Virginia Library, Charlottesville, VA
-##### Chief Architect of the Online Library Environment
-
-<small>JANUARY 2009 – JANUARY 2010</small>
-
----
-
-#### University of Virginia Library, Charlottesville, VA
-##### Research and Development Librarian, Scholars’ Lab
-
-<small>JULY 2005 – JANUARY 2009</small>
-
----

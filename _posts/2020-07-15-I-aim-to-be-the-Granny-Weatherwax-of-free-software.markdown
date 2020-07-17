@@ -2,7 +2,7 @@
 layout: post
 title:  I aim to be the Granny Weatherwax of free software
 date:   2020-07-15 16:03:30 +0300
-image:  granny.jpg
+image:  sceneHouse.jpeg
 tags:   Life
 ---
 
@@ -10,6 +10,7 @@ tags:   Life
 
 I have recently had cause to sit back and wonder what the second half of my life is going to look like. I don’t see many role models. [Older women are under represented in media generally](https://www.vulture.com/2013/04/leading-men-age-but-their-love-interests-dont.html){:target="_blank"} , and the ones I see don’t match my vision for my life’s trajectory. When I think about the kind of old woman I want to become, there’s really only one role model I can look to: [Granny Weatherwax](https://en.wikipedia.org/wiki/Granny_Weatherwax){:target="_blank"} . 
 
+![]({{site.baseurl}}/img/granny.jpeg)
 Granny Weatherwax is a character from Terry Pratchett’s [Discworld](https://en.wikipedia.org/wiki/Discworld){:target="_blank"}  series. Perhaps she comes to mind because the Discworld series has played an out-sized role in my life, particularly my professional life. Twenty years ago I was a shell-shocked recent arrival in Edmonton, Alberta, Canada, intimidated but thrilled to be working at [SunSITE](https://en.wikipedia.org/wiki/Sunsite){:target="_blank"}  Alberta. I was an apprentice Solaris sysadmin for the university and the first order of business was to read and understand all of the Discworld books because everything everywhere was named after a Terry Pratchett character. It might be important, say, to understand that a storage system called “[The Luggage](https://discworld.fandom.com/wiki/The_Luggage){:target="_blank"}” was just as likely to eat data as to give it back to you unharmed. 
 
 And also, they’re brilliant books. I didn’t mind at all immersing myself in that world. I saw much there to appreciate and it made up for the fact that I had to place support calls for servers with names like “thighbiter” and “littlebottom”. Granny Weatherwax, in this world, is a witch. She’s powerful, but down to earth. She has a different path through magic than the wizards at Unseen University. Wizards are gatekeepers of magic. Though powerful, they often appear willfully ignorant of common sense and human psychology. Wizards disdain women, and women’s magic. Witches, on the other hand, wield magic that is rooted in daily practice. Witches aim for balance and sustainability, not ego inflation. There is a saying that sufficiently advanced technology is indistinguishable from magic, and learning my new job often felt like being in magic school. There were certainly long lists of arcane incantations to memorize. 
